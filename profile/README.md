@@ -1,14 +1,14 @@
 ## Backend
-- [https://github.com/coffilation/search](Search API)
-- [https://github.com/coffilation/media](Media API)
-- [https://github.com/coffilation/backend](Main backend)
-- [https://github.com/coffilation/deploy](Deploy config)
+- [Search API](https://github.com/coffilation/search)
+- [Media API](https://github.com/coffilation/media)
+- [Main backend](https://github.com/coffilation/backend)
+- [Deploy config](https://github.com/coffilation/deploy)
 
 ## Frontend
-- [https://github.com/coffilation/frontend](Web app)
+- [Web app](https://github.com/coffilation/frontend)
 
 # iOS
-- [https://github.com/coffilation/ios](Mobile app)
+- [Mobile app](https://github.com/coffilation/ios)
 
 # Android
-- [https://github.com/coffilation/android](Mobile app)
+- [Mobile app](https://github.com/coffilation/android)
